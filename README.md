@@ -1,0 +1,1 @@
+This project leverages machine learning to predict wine quality based on physicochemical properties. Using the popular UCI Wine Quality dataset, I built and evaluated several models, visualized feature impacts, and explored the chemistry behind great wine.
